@@ -1,3 +1,6 @@
+![Kain Visitors](https://komarev.com/ghpvc/?username=KainSilver&color=blue&style=flat-square&label=Profile+Views)
+
+
 ### Hi there 👋 I'm Kain Silver
 - 🔭 I’m currently working on any projects I get on
 - 🌱 I’m currently learning C/C++
